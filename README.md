@@ -137,8 +137,3 @@ Material UI Grid system is used for responsive layouts.
 
 ---
 
-# Author
-
-Madhumitha S
-B.Tech Artificial Intelligence and Data Science
-Rajalakshmi Institute of Technology
